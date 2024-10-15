@@ -1,0 +1,12 @@
+---
+title: "Ramas"
+author: "Marcelino Martínez Sober"
+date: "2024-10-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Veamos el efecto de la ramas en un proyecto.
